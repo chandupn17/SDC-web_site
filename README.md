@@ -1,7 +1,7 @@
 
 # SDC-website
 
-This is a simple website designed for the enrollment in  SDC club, providing a clean and user-friendly interface for members to log in.
+This is a simple website designed for the enrollment in  SDC club, providing a clean and user-friendly interface.
 
 
 
@@ -28,11 +28,11 @@ To deploy this project click on the below
 1. Clone the repository:
 git clone https://github.com/chandupn17/SDC-web_site.git
 
-2. Open the index.html file in a web browser to view the login page.
+2. Open the index.html file in a web browser to view the page.
 
 3. Customize:
 
-Modify the HTML and CSS files to tailor the login page for specific branding and requirements.
+Modify the HTML, js and CSS files to tailor the login page for specific branding and requirements.
 ## Features
 
 - Responsive
