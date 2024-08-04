@@ -476,6 +476,36 @@ width: 100%;
     align-items: center;
     
 }
+@media screen and (max-width: 600px) {
+ .total{
+    display: flex;
+    flex-direction: column;
+ }
+    .team-rowone , .team-rowtwo {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+      gap: 10px;
+        .team-rowone{
+            padding-bottom: 70px;
+        }
+         
+       .team-rowtwo{
+        padding-top: 70px;    
+       }
+
+       .team-rowone img, .team-rowtwo img{
+        height: 200px;
+        width: 200px;
+
+       }
+    .copy{
+        padding-top: 1100px;
+
+    }
+    }
+    /* CSS rules here */
+  }
 /* -------adds------- */
 
 .ads-chandu-inner{
